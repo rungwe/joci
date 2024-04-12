@@ -637,7 +637,7 @@ contract JOCIToken is ERC20, ERC20Burnable, Ownable {
 
     address private _nominatedLpPairAddress;
 
-    uint256 private _maxCap = 1_000_000_000 * (10 ** uint256(decimals()));
+    uint256 private _maxCap = 10_000_000_000 * (10 ** uint256(decimals()));
 
     constructor() ERC20("Jeeters Out Chads In", "JOCI") {
         _mint(msg.sender, _maxCap);

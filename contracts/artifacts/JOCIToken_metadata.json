@@ -467,11 +467,11 @@
 	},
 	"sources": {
 		"contracts/joci.sol": {
-			"keccak256": "0x7fd710de7f4121669d897efa252e3cf683c49faa186baa6ac50949f0767b3dfb",
+			"keccak256": "0xca9146b868d4b9b4b47626de21d29e161d1b3cd058cc5add95c355098518c6de",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b1c6212d5eb886f695828ee2017e52508681d037017f6db3b7dc315d05424edc",
-				"dweb:/ipfs/QmY3jQ6PYyhg2JqCLJCKqRVG9MB5r3LPKHXWfovvVsJcpA"
+				"bzz-raw://84e878abf0788c2bc2ffed4114888020ddc0402ac017fd8c4cd03f51799ef108",
+				"dweb:/ipfs/QmXA9rnhN9Xakes5jBKFPMLd87NrLevwQhbNDsRygDp8xA"
 			]
 		}
 	},
